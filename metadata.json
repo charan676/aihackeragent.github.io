@@ -1,0 +1,5 @@
+{
+  "name": "AI Hacker Agent",
+  "description": "Automated vulnerability scanning using an AI agent with N8N, Ollama, and MCP.",
+  "requestFramePermissions": []
+}
