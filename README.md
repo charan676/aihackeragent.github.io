@@ -77,10 +77,4 @@ npm run dev
 
 ## 👤 Author
 
-**RamCharan** — [@charan676](https://github.com/charan676)
-
----
-
-## 📄 License
-
-ISC
+**RamCharan Narkedimilli** — [@charan676](https://github.com/charan676)
