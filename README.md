@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![AI Hacker Agent Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 A web-based AI-powered vulnerability scanner that autonomously detects security issues in web applications.
 
 🔗 **Live Demo:** [https://aihackeragent.onrender.com](https://aihackeragent.onrender.com)
